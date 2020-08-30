@@ -565,13 +565,13 @@
     "relativePath": "scripts\\Star.js"
   },
   "a442fa99-b226-44ea-b53c-10f4af806533": {
-    "asset": 1598788626334,
-    "meta": 1598788627854,
+    "asset": 1598794973261,
+    "meta": 1598794974254,
     "relativePath": "scripts\\Game.js"
   },
   "f9986ee0-d5c2-49e2-ba0c-cdadd9b86ca4": {
-    "asset": 1598788562488,
-    "meta": 1598788627954,
+    "asset": 1598795554469,
+    "meta": 1598795597162,
     "relativePath": "scripts\\Player.js"
   }
 }

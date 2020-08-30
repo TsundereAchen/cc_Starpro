@@ -88,9 +88,16 @@ cc.Class({
 
     if (Math.abs(this.xSpeed) > this.maxMoveSpeed) {
       this.xSpeed = this.maxMoveSpeed * (this.xSpeed > 0 ? 1 : -1);
-    }
+    } //获取屏幕尺寸
 
-    this.node.x += this.xSpeed * dt;
+
+    var winSize = cc.view.getVisibleSize(); //获取当前x
+
+    var len = this.node.x + this.xSpeed * dt;
+
+    if (len >= -winSize.width / 2 && len <= winSize.width / 2) {
+      this.node.x += this.xSpeed * dt;
+    }
   }
 });
 

@@ -12,3 +12,81 @@
 2020-08-30T05:34:59.145Z - success: protocol thumbnail registerred
 2020-08-30T05:34:59.145Z - success: protocol unpack registerred
 2020-08-30T05:34:59.145Z - success: protocol disable-commonjs registerred
+2020-08-30T05:34:59.381Z - normal: connected!
+2020-08-30T05:34:59.383Z - normal: Check project D:\code\cocos_workpace\start_project
+2020-08-30T05:34:59.386Z - normal: Initializing project D:\code\cocos_workpace\start_project
+2020-08-30T05:34:59.459Z - success: adapters loaded
+2020-08-30T05:34:59.462Z - success: asset-db-debugger loaded
+2020-08-30T05:34:59.548Z - success: fb-audience-network loaded
+2020-08-30T05:34:59.611Z - success: fb-live-stream loaded
+2020-08-30T05:34:59.613Z - success: google-play-instant loaded
+2020-08-30T05:34:59.614Z - success: huawei-adapter loaded
+2020-08-30T05:34:59.614Z - success: jkw-adapter loaded
+2020-08-30T05:34:59.615Z - success: jsb-adapter loaded
+2020-08-30T05:34:59.615Z - success: oppo-adapter loaded
+2020-08-30T05:34:59.617Z - success: package-manager loaded
+2020-08-30T05:34:59.618Z - success: qtt-adapter loaded
+2020-08-30T05:34:59.620Z - success: runtime-dev-tools loaded
+2020-08-30T05:34:59.627Z - success: sdkbox loaded
+2020-08-30T05:34:59.629Z - success: ui-kit-preview-extra loaded
+2020-08-30T05:34:59.631Z - success: ui-kit-preview loaded
+2020-08-30T05:34:59.631Z - success: vivo-adapter loaded
+2020-08-30T05:34:59.695Z - success: alipay-minigame loaded
+2020-08-30T05:34:59.766Z - success: assets loaded
+2020-08-30T05:34:59.769Z - success: baidugame-opendata loaded
+2020-08-30T05:34:59.771Z - success: baidugame loaded
+2020-08-30T05:34:59.773Z - success: builder loaded
+2020-08-30T05:34:59.914Z - success: cocos-services loaded
+2020-08-30T05:34:59.916Z - success: console loaded
+2020-08-30T05:34:59.917Z - success: curve-editor loaded
+2020-08-30T05:34:59.927Z - success: fb-instant-games loaded
+2020-08-30T05:34:59.928Z - success: game-window loaded
+2020-08-30T05:34:59.929Z - success: google-instant-games loaded
+2020-08-30T05:34:59.930Z - success: hierarchy loaded
+2020-08-30T05:34:59.932Z - success: huawei-runtime loaded
+2020-08-30T05:34:59.933Z - success: inspector loaded
+2020-08-30T05:34:59.982Z - success: cpk-publish loaded
+2020-08-30T05:34:59.983Z - success: keystore loaded
+2020-08-30T05:34:59.985Z - success: node-library loaded
+2020-08-30T05:34:59.986Z - success: open-recent-items loaded
+2020-08-30T05:34:59.989Z - success: oppo-runtime loaded
+2020-08-30T05:34:59.994Z - success: package-asset loaded
+2020-08-30T05:34:59.994Z - success: preferences loaded
+2020-08-30T05:34:59.995Z - success: project-importer loaded
+2020-08-30T05:34:59.996Z - success: project-settings loaded
+2020-08-30T05:35:00.012Z - success: qtt-runtime loaded
+2020-08-30T05:35:00.014Z - success: scene loaded
+2020-08-30T05:35:00.015Z - success: simulator-debugger loaded
+2020-08-30T05:35:00.015Z - success: sprite-editor loaded
+2020-08-30T05:35:00.016Z - success: store loaded
+2020-08-30T05:35:00.018Z - success: timeline loaded
+2020-08-30T05:35:00.020Z - success: vivo-runtime loaded
+2020-08-30T05:35:00.022Z - success: wechatgame-opendata loaded
+2020-08-30T05:35:00.024Z - success: wechatgame loaded
+2020-08-30T05:35:00.026Z - success: xiaomi-runtime loaded
+2020-08-30T05:35:01.670Z - normal: Initializing Cocos2d
+2020-08-30T05:35:01.965Z - normal: Initializing engine extends
+2020-08-30T05:35:02.867Z - info: Cocos Service load base data!
+2020-08-30T05:35:06.452Z - normal: Loading packages
+2020-08-30T05:35:06.454Z - normal: Watching packages
+2020-08-30T05:35:06.734Z - normal: Run Application
+2020-08-30T11:52:37.726Z - error: Property 'Game.scoreAudio' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (D:\CocosCreator_2.3.1\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:257:6)
+    at Object.exports.preprocessAttrs (D:\CocosCreator_2.3.1\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:331:16)
+    at declareProperties (D:\CocosCreator_2.3.1\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:851:16)
+    at Object.CCClass [as Class] (D:\CocosCreator_2.3.1\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:1001:5)
+    at __define (D:\code\cocos_workpace\start_project\temp\quick-scripts\dst\assets\scripts\Game.js:24:4)
+    at D:\code\cocos_workpace\start_project\temp\quick-scripts\dst\assets\scripts\Game.js:109:25
+    at Object.<anonymous> (D:\code\cocos_workpace\start_project\temp\quick-scripts\dst\assets\scripts\Game.js:116:19)
+    at Object.<anonymous> (D:\code\cocos_workpace\start_project\temp\quick-scripts\dst\assets\scripts\Game.js:118:3)
+    at Module._compile (internal/modules/cjs/loader.js:839:30)
+2020-08-30T11:53:11.358Z - error: Property 'Game.scoreAudio' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (D:\CocosCreator_2.3.1\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:257:6)
+    at Object.exports.preprocessAttrs (D:\CocosCreator_2.3.1\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:331:16)
+    at declareProperties (D:\CocosCreator_2.3.1\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:851:16)
+    at Object.CCClass [as Class] (D:\CocosCreator_2.3.1\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:1001:5)
+    at __define (D:\code\cocos_workpace\start_project\temp\quick-scripts\dst\assets\scripts\Game.js:24:4)
+    at D:\code\cocos_workpace\start_project\temp\quick-scripts\dst\assets\scripts\Game.js:109:25
+    at Object.<anonymous> (D:\code\cocos_workpace\start_project\temp\quick-scripts\dst\assets\scripts\Game.js:116:19)
+    at Object.<anonymous> (D:\code\cocos_workpace\start_project\temp\quick-scripts\dst\assets\scripts\Game.js:118:3)
+    at Module._compile (internal/modules/cjs/loader.js:839:30)

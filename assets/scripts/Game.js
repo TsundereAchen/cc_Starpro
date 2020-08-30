@@ -72,7 +72,9 @@ cc.Class({
     getNewStarPosition: function() {
         var randX = 0;
         var randY = this.groundY + Math.random()*this.player.getComponent('Player').jumpHeight + 50;
-        var maxX = this.node.width/2;
+        //获取屏幕尺寸
+        var winSize = cc.view.getVisibleSize();
+        var maxX = winSize.width/2;
         randX = (Math.random()-0.5)*2*maxX;
         //返回星星坐标
         return cc.v2(randX, randY);

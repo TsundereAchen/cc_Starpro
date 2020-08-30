@@ -1,6 +1,6 @@
 
 (function () {
-var scripts = [{"deps":{"./assets/scripts/Star":4,"./assets/scripts/Game":2,"./assets/migration/use_v2.0.x_cc.Toggle_event":3,"./assets/scripts/Player":1},"path":"preview-scripts/__qc_index__.js"},{"deps":{},"path":"preview-scripts/assets/scripts/Player.js"},{"deps":{},"path":"preview-scripts/assets/scripts/Game.js"},{"deps":{},"path":"preview-scripts/assets/migration/use_v2.0.x_cc.Toggle_event.js"},{"deps":{},"path":"preview-scripts/assets/scripts/Star.js"}];
+var scripts = [{"deps":{"./assets/scripts/Star":4,"./assets/scripts/Player":1,"./assets/scripts/Game":2,"./assets/migration/use_v2.0.x_cc.Toggle_event":3},"path":"preview-scripts/__qc_index__.js"},{"deps":{},"path":"preview-scripts/assets/scripts/Player.js"},{"deps":{},"path":"preview-scripts/assets/scripts/Game.js"},{"deps":{},"path":"preview-scripts/assets/migration/use_v2.0.x_cc.Toggle_event.js"},{"deps":{},"path":"preview-scripts/assets/scripts/Star.js"}];
 var entries = ["preview-scripts/__qc_index__.js"];
 
 /**
